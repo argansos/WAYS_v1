@@ -1,0 +1,8 @@
+# DDS User Input Control File : goodness-of-fit
+# =====================================================
+7,8,9,10,12             # fit_ix
+1               # MAX problem (enter "-1") or MIN problem (enter "1")
+5            	# its
+2000            # maxiter
+9000            # random seed to fix Mersenne Twister random number generator
+0				# provided initial state

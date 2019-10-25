@@ -1,0 +1,2 @@
+path_i = './data/cali_pre/'
+path_o = './auxiliary/'

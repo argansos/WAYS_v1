@@ -1,0 +1,13 @@
+path_i = './data/GSWP3'
+path_o_ = './data/simu'
+
+path_sinit_ = './auxiliary/s_init'
+path_igss_ = './auxiliary/igss'
+
+file_obs = './data/obs_nc/obs_qtot_monthly_1986_1995.nc4'
+
+par_rix = [3, 4]
+
+f_name = 'gswp3'
+var_id = 'pr: pr, tas: tas, pet: pet, tasmin: tasmin'
+file_syb = 'xx_ffff_ssss_eeee.nc4'

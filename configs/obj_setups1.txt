@@ -1,0 +1,6 @@
+# DDS User Input Control File : objective funtion
+# =====================================================
+qtot          						# objf_name
+1               						# gof_ix
+M             							# scale
+24										# warm_t

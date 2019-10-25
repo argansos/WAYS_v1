@@ -1,0 +1,9 @@
+path_i_ = './data/simu_pre'
+path_o_ = './data/simu'
+
+f_name = 'gswp3'
+var_id = 'pr: pr, tas: tas, pet: pet'
+file_syb = 'xx_ffff_ssss_eeee.nc4'
+path_sinit = './auxiliary/s_init'
+
+par_rix = [3, 4]
